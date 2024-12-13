@@ -58,7 +58,7 @@
     "/what-is-skillfulai": [
       a,
       s,
-      "static/chunks/pages/what-is-skillfulai-c3fe39fbf91fa606.js",
+      "static/chunks/pages/what-is-BrainiacAI-c3fe39fbf91fa606.js",
     ],
     "/when-ai-learns-to-think-beyond-data-and-code": [
       a,

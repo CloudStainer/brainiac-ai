@@ -95,7 +95,7 @@
                   textAlign: "center",
                   as: "h1",
                   size: "2xl",
-                  children: "What is Skillful AI?",
+                  children: "What is Brainiac AI?",
                 }),
               }),
               (0, i.jsx)(a.xu, {
@@ -103,7 +103,7 @@
                 children: (0, i.jsx)(l.E, {
                   margin: "auto",
                   src: "/images/what-is-skillful.png",
-                  alt: "What is Skillful AI?",
+                  alt: "What is Brainiac AI?",
                   maxWidth: "100%",
                   maxHeight: "500px",
                 }),
@@ -125,7 +125,7 @@
                     pb: "30px",
                     children: (0, i.jsx)(l.E, {
                       margin: "auto",
-                      src: "/images/whatIsSkillfulAiNewMain.png",
+                      src: "/images/whatIsBrainiacAINewMain.png",
                       alt: "What is an AI Agent?",
                       maxWidth: "100%",
                       maxHeight: "500px",
@@ -257,7 +257,7 @@
                   (0, i.jsx)(d.x, {
                     pb: "1.2em",
                     children:
-                      "We, at Skillful AI, aim to address these challenges by creating a\n          “User-Centric AI Infrastructure”, leveraging the concept of APPMO.",
+                      "We, at Brainiac AI, aim to address these challenges by creating a\n          “User-Centric AI Infrastructure”, leveraging the concept of APPMO.",
                   }),
                   (0, i.jsx)(o.X, {
                     as: "h3",
@@ -268,7 +268,7 @@
                   (0, i.jsx)(d.x, {
                     pb: "1.2em",
                     children:
-                      "AI shouldn't be a privilege of the few. Lower socioeconomic segments\n          confront barriers in understanding and adopting AI due to its\n          complex nature, a discrepancy that Skillful AI strives to address.",
+                      "AI shouldn't be a privilege of the few. Lower socioeconomic segments\n          confront barriers in understanding and adopting AI due to its\n          complex nature, a discrepancy that Brainiac AI strives to address.",
                   }),
                   (0, i.jsx)(d.x, {
                     pl: "2em",
@@ -330,12 +330,12 @@
                   (0, i.jsx)(d.x, {
                     pb: "1.2em",
                     children:
-                      "We understand that the challenges posed by the AI ecosystem are\n          real. That's why, at Skillful AI, we’re shaping solutions rooted in\n          technical innovation tailored to meet specific needs.",
+                      "We understand that the challenges posed by the AI ecosystem are\n          real. That's why, at Brainiac AI, we’re shaping solutions rooted in\n          technical innovation tailored to meet specific needs.",
                   }),
                   (0, i.jsx)(d.x, {
                     pb: "1.2em",
                     children:
-                      "Here’s the bird’s eye overview of how the skillful AI will work.",
+                      "Here’s the bird’s eye overview of how the Brainiac AI will work.",
                   }),
                   (0, i.jsxs)(a.xu, {
                     textAlign: "center",
@@ -344,7 +344,7 @@
                       (0, i.jsx)(l.E, {
                         margin: "auto",
                         src: "/images/tableImage.png",
-                        alt: "Skillful AI",
+                        alt: "Brainiac AI",
                         maxWidth: "100%",
                         maxHeight: "500px",
                       }),
@@ -406,7 +406,7 @@
                               children: "Current DKSM Limitations",
                             }),
                             (0, i.jsx)(w, {
-                              children: "Skillful AI’s approach",
+                              children: "Brainiac AI’s approach",
                             }),
                           ],
                         }),
@@ -532,7 +532,7 @@
                   (0, i.jsx)(d.x, {
                     pb: "1.2em",
                     children:
-                      "Skillful AI views developers as both visionaries and partners.\n          Developers can use third-party tools or create specialized models.\n          For example, developers can create an AI-powered health coach that\n          integrates nutrition tracking, workout suggestions, and stress\n          management techniques.",
+                      "Brainiac AI views developers as both visionaries and partners.\n          Developers can use third-party tools or create specialized models.\n          For example, developers can create an AI-powered health coach that\n          integrates nutrition tracking, workout suggestions, and stress\n          management techniques.",
                   }),
                   (0, i.jsx)(o.X, {
                     as: "h5",
@@ -553,7 +553,7 @@
                   (0, i.jsx)(d.x, {
                     pb: "1.2em",
                     children:
-                      "Skillful AI will provide tools such as personality design guides and\n          tone of voice templates. Be it for Youtube shorts or Insta Reels,\n          Skillful AI is also venturing into terrain where AI personalities\n          can mirror the communication style of influencers and celebrities.",
+                      "Brainiac AI will provide tools such as personality design guides and\n          tone of voice templates. Be it for Youtube shorts or Insta Reels,\n          Brainiac AI is also venturing into terrain where AI personalities\n          can mirror the communication style of influencers and celebrities.",
                   }),
                   (0, i.jsx)(o.X, {
                     as: "h4",
@@ -579,7 +579,7 @@
                   (0, i.jsx)(d.x, {
                     pb: "1.2em",
                     children:
-                      "At Skillful AI, memory could be implemented in several ways:",
+                      "At Brainiac AI, memory could be implemented in several ways:",
                   }),
                   (0, i.jsxs)(A.QI, {
                     pb: "1.2em",
@@ -626,7 +626,7 @@
                     as: "h2",
                     size: "lg",
                     pb: "20px",
-                    children: "Products offered by Skillful AI",
+                    children: "Products offered by Brainiac AI",
                   }),
                   (0, i.jsx)(d.x, {
                     pb: "1.2em",
@@ -639,14 +639,14 @@
                       (0, i.jsx)("strong", {
                         children: "AI Personal Assistants:",
                       }),
-                      " Skillful AI offers users\n          the autonomy to employ AI assistants tailored for either personal or\n          commercial applications. Users can operate multiple assistants\n          simultaneously or change existing ones as per their needs.",
+                      " Brainiac AI offers users\n          the autonomy to employ AI assistants tailored for either personal or\n          commercial applications. Users can operate multiple assistants\n          simultaneously or change existing ones as per their needs.",
                     ],
                   }),
                   (0, i.jsxs)(d.x, {
                     pb: "1.2em",
                     children: [
                       (0, i.jsx)("strong", { children: "Developer Tools:" }),
-                      " Skillful AI provides tools to\n          individuals who want to create their own AI Assistants, whether for\n          personal use or for offering on the marketplace. Developers are not\n          merely given access to in-house tools, but a holistic set of APIs\n          and integrations.",
+                      " Brainiac AI provides tools to\n          individuals who want to create their own AI Assistants, whether for\n          personal use or for offering on the marketplace. Developers are not\n          merely given access to in-house tools, but a holistic set of APIs\n          and integrations.",
                     ],
                   }),
                   (0, i.jsxs)(d.x, {
@@ -667,7 +667,7 @@
                       (0, i.jsx)("strong", {
                         children: "Business-to-Business Solutions:",
                       }),
-                      " Today's businesses\n          aren't just looking for automation—they're seeking solutions. With a\n          decline in job applications and emerging niche roles, Skillful AI's\n          B2B solutions come as a timely answer. In future, Skillful AI will\n          provide tools and solutions specifically tailored to B2B services.",
+                      " Today's businesses\n          aren't just looking for automation—they're seeking solutions. With a\n          decline in job applications and emerging niche roles, Brainiac AI's\n          B2B solutions come as a timely answer. In future, Brainiac AI will\n          provide tools and solutions specifically tailored to B2B services.",
                     ],
                   }),
                   (0, i.jsxs)(d.x, {
@@ -703,7 +703,7 @@
                   (0, i.jsx)(d.x, {
                     pb: "1.2em",
                     children:
-                      "However, alongside these opportunities, come genuine concerns about\n          privacy, work dynamics, and the accountability of AI governance. To\n          address these challenges, we've built skillful AI around the\n          principles of accessibility, personalisation, privacy, memory, and\n          ownership. By building solutions around these key areas, we aim to\n          create an AI Infrastructure for the public that is personalized,\n          efficient and safe!",
+                      "However, alongside these opportunities, come genuine concerns about\n          privacy, work dynamics, and the accountability of AI governance. To\n          address these challenges, we've built Brainiac AI around the\n          principles of accessibility, personalisation, privacy, memory, and\n          ownership. By building solutions around these key areas, we aim to\n          create an AI Infrastructure for the public that is personalized,\n          efficient and safe!",
                   }),
                 ],
               }),
@@ -768,7 +768,7 @@
                         fontSize: e ? "1.63794rem" : "3.25rem",
                         fontStyle: "normal",
                         fontWeight: "700",
-                        children: "contact@skillfulai.io",
+                        children: "contact@BrainiacAI.io",
                       }),
                     ],
                   }),
@@ -803,17 +803,6 @@
                           fontStyle: "normal",
                           fontWeight: "400",
                           children: "Documentation",
-                        }),
-                      }),
-                      (0, i.jsx)(l.r, {
-                        href: "/documents/SKILLFUL_AI_PITCH_DECK.pdf",
-                        download: "SKILLFUL_AI_PITCH_DECK.pdf",
-                        children: (0, i.jsx)(o.x, {
-                          fontFamily: "body",
-                          fontSize: e ? "1.03094rem" : "1.25rem",
-                          fontStyle: "normal",
-                          fontWeight: "400",
-                          children: "Pitch Deck",
                         }),
                       }),
                     ],
@@ -883,18 +872,7 @@
                         children: "Social",
                       }),
                       (0, i.jsx)(l.r, {
-                        href: "https://discord.gg/WhAYqkXYkg",
-                        isExternal: !0,
-                        children: (0, i.jsx)(o.x, {
-                          fontFamily: "body",
-                          fontSize: e ? "1.03094rem" : "1.25rem",
-                          fontStyle: "normal",
-                          fontWeight: "400",
-                          children: "Discord",
-                        }),
-                      }),
-                      (0, i.jsx)(l.r, {
-                        href: "https://t.me/+oNknk6vJj-0wODgx",
+                        href: "https://t.me/Brainiac_AI_channel",
                         isExternal: !0,
                         children: (0, i.jsx)(o.x, {
                           fontFamily: "body",
@@ -905,29 +883,18 @@
                         }),
                       }),
                       (0, i.jsx)(l.r, {
-                        href: "https://www.linkedin.com/company/skillful-ai-io/about/",
+                        href: "https://medium.com/@brainiac_ai",
                         isExternal: !0,
                         children: (0, i.jsx)(o.x, {
                           fontFamily: "body",
                           fontSize: e ? "1.03094rem" : "1.25rem",
                           fontStyle: "normal",
                           fontWeight: "400",
-                          children: "LinkedIn",
+                          children: "Medium",
                         }),
                       }),
                       (0, i.jsx)(l.r, {
-                        href: "https://www.instagram.com/skillfulai.io/",
-                        isExternal: !0,
-                        children: (0, i.jsx)(o.x, {
-                          fontFamily: "body",
-                          fontSize: e ? "1.03094rem" : "1.25rem",
-                          fontStyle: "normal",
-                          fontWeight: "400",
-                          children: "Instagram",
-                        }),
-                      }),
-                      (0, i.jsx)(l.r, {
-                        href: "https://twitter.com/SkillfulAI",
+                        href: "https://x.com/AI_Brainiac",
                         isExternal: !0,
                         children: (0, i.jsx)(o.x, {
                           fontFamily: "body",
@@ -951,7 +918,7 @@
                 fontWeight: "400",
                 lineHeight: "3.10431rem",
                 children:
-                  "Copyright \xa9 2024 Skillful AI | All rights reserved",
+                  "Copyright \xa9 2024 Brainiac AI | All rights reserved",
               }),
             ],
           }),

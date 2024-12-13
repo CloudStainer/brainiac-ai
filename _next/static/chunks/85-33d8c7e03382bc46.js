@@ -104,7 +104,7 @@
                 : S.OK.scrollTo(e, { duration: 500, smooth: !0 });
             },
             U = () => {
-              window.open("https://app.skillfulai.io/", "_blank");
+              window.open("https://brainiac-ai-app.vercel.app/", "_blank");
             };
           return (0, a.jsxs)(c.xu, {
             children: [
@@ -156,8 +156,8 @@
                         color: "#FFFFFF",
                         opacity: "0.7",
                         cursor: "pointer",
-                        onClick: () => O("whatIsSkillfulAI"),
-                        children: "What Is SkillfulAI",
+                        onClick: () => O("whatIsBrainiacAI"),
+                        children: "What Is BrainiacAI",
                       }),
                       (0, a.jsx)(g.x, {
                         fontFamily: "heading",
@@ -265,21 +265,7 @@
                             children: [
                               (0, a.jsx)(f.s, {
                                 as: "a",
-                                href: "https://www.gate.io/trade/SKAI_USDT",
-                                target: "_blank",
-                                bg: "transparent",
-                                children: "Gate.io",
-                              }),
-                              (0, a.jsx)(f.s, {
-                                as: "a",
-                                href: "https://www.mexc.com/exchange/SKAI_USDT",
-                                target: "_blank",
-                                bg: "transparent",
-                                children: "Mexc",
-                              }),
-                              (0, a.jsx)(f.s, {
-                                as: "a",
-                                href: "https://app.uniswap.org/explore/tokens/ethereum/0xcf078da6e85389de507ceede0e3d217e457b9d49",
+                                href: "https://app.uniswap.org/explore/tokens/ethereum/0x000000000000000000000000000000000",
                                 target: "_blank",
                                 bg: "transparent",
                                 children: "Uniswap",
@@ -366,8 +352,8 @@
                               color: "#FFFFFF",
                               opacity: "0.7",
                               cursor: "pointer",
-                              onClick: () => O("whatIsSkillfulAI"),
-                              children: "What Is SkillfulAI",
+                              onClick: () => O("whatIsBrainiacAI"),
+                              children: "What Is BrainiacAI",
                             }),
                             (0, a.jsx)(g.x, {
                               fontFamily: "heading",
@@ -475,7 +461,7 @@
                                   }),
                                   (0, a.jsx)(g.x, {
                                     as: "a",
-                                    href: "https://app.uniswap.org/explore/tokens/ethereum/0xcf078da6e85389de507ceede0e3d217e457b9d49",
+                                    href: "https://app.uniswap.org/explore/tokens/ethereum/0x000000000000000000000000000000000",
                                     target: "_blank",
                                     color: "white",
                                     children: "Uniswap",
@@ -652,7 +638,7 @@
                         fontStyle: "normal",
                         fontWeight: "600",
                         lineHeight: "3rem",
-                        children: "Welcome to SkillFul AI",
+                        children: "Welcome to Brainiac AI",
                       }),
                       (0, r.jsx)(g.x, {
                         fontFamily: "Poppins",

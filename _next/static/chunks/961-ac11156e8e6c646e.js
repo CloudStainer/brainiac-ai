@@ -43,7 +43,7 @@
           article: "Q4 and Beyond",
           category: "Business",
           description:
-            "Discover how Skillful AI is navigating the market's summer lull with strategic focus and anticipation for Q4 2024. This article highlights the upcoming launch of the AI Builder, the expansion of the Model Hub, and the introduction of user profiles, ratings, and prompt templates. Get a sneak peek into what's coming in 2025 as Skillful AI prepares to meet the world with innovative tools and platforms.",
+            "Discover how Brainiac AI is navigating the market's summer lull with strategic focus and anticipation for Q4 2024. This article highlights the upcoming launch of the AI Builder, the expansion of the Model Hub, and the introduction of user profiles, ratings, and prompt templates. Get a sneak peek into what's coming in 2025 as Brainiac AI prepares to meet the world with innovative tools and platforms.",
           imageSRC: "/images/q4-thumbnail.png",
         },
         {
@@ -55,8 +55,8 @@
           imageSRC: "/images/news1.png",
         },
         {
-          id: "what-is-skillfulai",
-          article: "WHAT IS SKILLFUL AI?",
+          id: "what-is-skill",
+          article: "WHAT IS Brainiac AI?",
           category: "Business",
           description:
             "It's easy to forget the times when office cubicles were graced not with computers, but with drafting tables and manual drafting tools. The era before 1982—before the AutoCAD —saw engineers creating drawings using pencils, T-squares, and other tools.\n\n        Each line, made by graphite on paper, was susceptible to errors that demanded a complete redrafting. One slip and start again. The patience and resilience of that era was unparalleled.",
@@ -178,34 +178,6 @@
                               WebkitBoxOrient: "vertical",
                             },
                             children: t.description,
-                          }),
-                          (0, n.jsxs)(o.k, {
-                            gap: "1rem",
-                            justifyContent: "end",
-                            alignItems: "center",
-                            cursor: "pointer",
-                            onClick: () => {
-                              c.push("/".concat(t.id));
-                            },
-                            children: [
-                              (0, n.jsx)(s.x, {
-                                color: "#E2E2E2",
-                                fontFamily: "body",
-                                fontSize: e ? "0.875rem" : "1rem",
-                                fontStyle: "normal",
-                                fontWeight: "600",
-                                lineHeight: "140%",
-                                textDecorationLine: "underline",
-                                textAlign: "right",
-                                children: "Read Full Article",
-                              }),
-                              (0, n.jsx)(l.E, {
-                                w: e ? "0.81888rem" : "1.32844rem",
-                                h: e ? "0.81894rem" : "1.32844rem",
-                                alt: "",
-                                src: "/icons/arrow-right.svg",
-                              }),
-                            ],
                           }),
                         ],
                       }),
@@ -348,34 +320,6 @@
                               },
                               children: e.description,
                             }),
-                            (0, n.jsxs)(o.k, {
-                              gap: "1rem",
-                              justifyContent: "end",
-                              alignItems: "center",
-                              cursor: "pointer",
-                              onClick: () => {
-                                c.push("/".concat(e.id));
-                              },
-                              children: [
-                                (0, n.jsx)(s.x, {
-                                  color: "#E2E2E2",
-                                  fontFamily: "body",
-                                  fontSize: "1rem",
-                                  fontStyle: "normal",
-                                  fontWeight: "600",
-                                  lineHeight: "140%",
-                                  textDecorationLine: "underline",
-                                  textAlign: "right",
-                                  children: "Read Full Article",
-                                }),
-                                (0, n.jsx)(l.E, {
-                                  w: "1.32844rem",
-                                  h: "1.32844rem",
-                                  alt: "",
-                                  src: "/icons/arrow-right.svg",
-                                }),
-                              ],
-                            }),
                           ],
                         }),
                       ],
@@ -440,7 +384,7 @@
                         fontSize: e ? "1.63794rem" : "3.25rem",
                         fontStyle: "normal",
                         fontWeight: "700",
-                        children: "contact@skillfulai.io",
+                        children: "contact@BrainiacAI.io",
                       }),
                     ],
                   }),
@@ -477,70 +421,6 @@
                           children: "Documentation",
                         }),
                       }),
-                      (0, n.jsx)(s.r, {
-                        href: "/documents/SKILLFUL_AI_PITCH_DECK.pdf",
-                        download: "SKILLFUL_AI_PITCH_DECK.pdf",
-                        children: (0, n.jsx)(l.x, {
-                          fontFamily: "body",
-                          fontSize: e ? "1.03094rem" : "1.25rem",
-                          fontStyle: "normal",
-                          fontWeight: "400",
-                          children: "Pitch Deck",
-                        }),
-                      }),
-                    ],
-                  }),
-                  (0, n.jsxs)(o.k, {
-                    flexDir: "column",
-                    gap: "1rem",
-                    children: [
-                      (0, n.jsx)(l.x, {
-                        fontFamily: "heading",
-                        fontSize: e ? "1.44331rem" : "1.75rem",
-                        fontStyle: "normal",
-                        fontWeight: "700",
-                        children: "Legal",
-                      }),
-                      (0, n.jsx)(s.r, {
-                        href: "/disclaimer",
-                        children: (0, n.jsx)(l.x, {
-                          fontFamily: "body",
-                          fontSize: e ? "1.03094rem" : "1.25rem",
-                          fontStyle: "normal",
-                          fontWeight: "400",
-                          children: "Disclaimer",
-                        }),
-                      }),
-                      (0, n.jsx)(s.r, {
-                        href: "/privacy-policy",
-                        children: (0, n.jsx)(l.x, {
-                          fontFamily: "body",
-                          fontSize: e ? "1.03094rem" : "1.25rem",
-                          fontStyle: "normal",
-                          fontWeight: "400",
-                          children: "Privacy Policy",
-                        }),
-                      }),
-                      (0, n.jsx)(s.r, {
-                        href: "/ai-refund-policy",
-                        children: (0, n.jsx)(l.x, {
-                          fontFamily: "body",
-                          fontSize: e ? "1.03094rem" : "1.25rem",
-                          fontStyle: "normal",
-                          fontWeight: "400",
-                          children: "AI Refund policy",
-                        }),
-                      }),
-                      (0, n.jsx)(s.r, {
-                        href: "/terms-and-conditions",
-                        children: (0, n.jsx)(l.x, {
-                          fontFamily: "body",
-                          fontSize: e ? "1.03094rem" : "1.25rem",
-                          fontStyle: "normal",
-                          fontWeight: "400",
-                          children: "Terms and Conditions",
-                        }),
-                      }),
                     ],
                   }),
                   (0, n.jsxs)(o.k, {
@@ -555,18 +435,7 @@
                         children: "Social",
                       }),
                       (0, n.jsx)(s.r, {
-                        href: "https://discord.gg/WhAYqkXYkg",
-                        isExternal: !0,
-                        children: (0, n.jsx)(l.x, {
-                          fontFamily: "body",
-                          fontSize: e ? "1.03094rem" : "1.25rem",
-                          fontStyle: "normal",
-                          fontWeight: "400",
-                          children: "Discord",
-                        }),
-                      }),
-                      (0, n.jsx)(s.r, {
-                        href: "https://t.me/+oNknk6vJj-0wODgx",
+                        href: "https://t.me/Brainiac_AI_channel",
                         isExternal: !0,
                         children: (0, n.jsx)(l.x, {
                           fontFamily: "body",
@@ -577,29 +446,18 @@
                         }),
                       }),
                       (0, n.jsx)(s.r, {
-                        href: "https://www.linkedin.com/company/skillful-ai-io/about/",
+                        href: "https://medium.com/@brainiac_ai",
                         isExternal: !0,
                         children: (0, n.jsx)(l.x, {
                           fontFamily: "body",
                           fontSize: e ? "1.03094rem" : "1.25rem",
                           fontStyle: "normal",
                           fontWeight: "400",
-                          children: "LinkedIn",
+                          children: "Medium",
                         }),
                       }),
                       (0, n.jsx)(s.r, {
-                        href: "https://www.instagram.com/skillfulai.io/",
-                        isExternal: !0,
-                        children: (0, n.jsx)(l.x, {
-                          fontFamily: "body",
-                          fontSize: e ? "1.03094rem" : "1.25rem",
-                          fontStyle: "normal",
-                          fontWeight: "400",
-                          children: "Instagram",
-                        }),
-                      }),
-                      (0, n.jsx)(s.r, {
-                        href: "https://twitter.com/SkillfulAI",
+                        href: "https://x.com/AI_Brainiac",
                         isExternal: !0,
                         children: (0, n.jsx)(l.x, {
                           fontFamily: "body",
@@ -623,7 +481,7 @@
                 fontWeight: "400",
                 lineHeight: "3.10431rem",
                 children:
-                  "Copyright \xa9 2024 Skillful AI | All rights reserved",
+                  "Copyright \xa9 2024 Brainiac AI | All rights reserved",
               }),
             ],
           }),

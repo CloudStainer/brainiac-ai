@@ -208,7 +208,7 @@
                         fontSize: n ? "2rem" : "5rem",
                         lineHeight: n ? "2.05044rem" : "4.375rem",
                         fontWeight: "bold",
-                        children: "What is Skillful AI?",
+                        children: "What is Brainiac AI?",
                       }),
                       (0, a.jsxs)(c.xu, {
                         fontSize: n ? "0.875rem" : "1.25rem",
@@ -221,95 +221,9 @@
                             whiteSpace: "pre-wrap",
                             textAlign: "justify",
                             children:
-                              "Skillful AI is an advanced platform that empowers individuals by providing a personalized AI ecosystem. It enables users to stay current with rapid technological advancements, offering customized virtual assistants trained in domain-specific knowledge. With a focus on context and user-specific memories, Skillful AI ensures comprehensive and tailored interactions. Additionally, it embraces developers, granting access to tools for creating and monetizing assistants, fostering a collaborative and dynamic ecosystem powered by blockchain technology. Skillful AI is a gateway to harnessing the benefits of AI and staying ahead in a dynamic digital world.",
+                              "Brainiac AI is an advanced platform that empowers individuals by providing a personalized AI ecosystem. It enables users to stay current with rapid technological advancements, offering customized virtual assistants trained in domain-specific knowledge. With a focus on context and user-specific memories, Brainiac AI ensures comprehensive and tailored interactions. Additionally, it embraces developers, granting access to tools for creating and monetizing assistants, fostering a collaborative and dynamic ecosystem powered by blockchain technology. Brainiac AI is a gateway to harnessing the benefits of AI and staying ahead in a dynamic digital world.",
                           }),
                           (0, a.jsx)(v.x, { margin: "0", children: "\xa0" }),
-                        ],
-                      }),
-                      (0, a.jsx)(v.x, {
-                        textAlign: "left",
-                        fontSize: n ? "1.5rem" : "3.875rem",
-                        lineHeight: n ? "1.78681rem" : "3.8125rem",
-                        textTransform: "capitalize",
-                        bgGradient: "linear(to-r, #FF2091 30%, #0184FD 140%)",
-                        backgroundClip: "text",
-                        mb: n ? "1rem" : "3rem",
-                        children:
-                          "The possibilities are beyond your imagination",
-                      }),
-                      (0, a.jsxs)(y.z, {
-                        height: { base: "3rem", lg: "72px" },
-                        width: { base: "250px", lg: "350px" },
-                        textAlign: "center",
-                        fontSize: { base: "0.8rem", lg: "1.125rem" },
-                        backgroundColor: "transparent",
-                        position: "relative",
-                        onClick: () => {
-                          e.push("/what-is-skillfulai");
-                        },
-                        children: [
-                          (0, a.jsx)(d.E, {
-                            position: "absolute",
-                            height: "100%",
-                            width: "75.65%",
-                            top: "0%",
-                            right: "24.35%",
-                            bottom: "0%",
-                            left: n ? "-1%" : "0",
-                            maxWidth: "100%",
-                            overflow: "hidden",
-                            maxHeight: "100%",
-                            src: "/icons/button/Rectangle 196.svg",
-                            alt: "",
-                          }),
-                          (0, a.jsx)(v.x, {
-                            position: "absolute",
-                            top: "calc(50% - 6px)",
-                            left: "12.75%",
-                            textTransform: "uppercase",
-                            fontWeight: "500",
-                            color: "gray.400",
-                            children: "Learn More",
-                          }),
-                          (0, a.jsx)(d.E, {
-                            position: "absolute",
-                            width: "2.32%",
-                            top: "calc(50% - 25px)",
-                            right: "97.68%",
-                            left: "0%",
-                            maxWidth: "100%",
-                            overflow: "hidden",
-                            height: "3.131rem",
-                            objectFit: "contain",
-                            src: "/icons/button/Vector 73.svg",
-                            alt: "",
-                          }),
-                          (0, a.jsx)(d.E, {
-                            position: "absolute",
-                            height: "100%",
-                            width: "50.14%",
-                            top: "0%",
-                            right: "0%",
-                            bottom: "0%",
-                            left: "49.86%",
-                            maxWidth: "100%",
-                            overflow: "hidden",
-                            maxHeight: "100%",
-                            src: "/icons/button/Vector 75.svg",
-                            alt: "",
-                          }),
-                          (0, a.jsx)(d.E, {
-                            position: "absolute",
-                            width: "11.88%",
-                            top: "calc(50% - 9px)",
-                            right: "11.01%",
-                            left: "77.1%",
-                            maxWidth: "100%",
-                            overflow: "hidden",
-                            height: "0.563rem",
-                            src: "/icons/button/Vector 78.svg",
-                            alt: "",
-                          }),
                         ],
                       }),
                     ],
@@ -377,7 +291,7 @@
                 src: "/gifs/ai-marketplace.gif",
                 name: "AI Marketplace",
                 description:
-                  "The SkillfulAI marketplace is a dynamic platform where you can buy, sell, or trade AI skills and assistants. But we take it a step further with the integration of NFT technology. This means you can truly own your AI assistant as a unique digital asset.",
+                  "The BrainiacAI marketplace is a dynamic platform where you can buy, sell, or trade AI skills and assistants. But we take it a step further with the integration of NFT technology. This means you can truly own your AI assistant as a unique digital asset.",
                 buttonText: "Explore the Library",
                 type: "left",
               },
@@ -385,7 +299,7 @@
                 src: "/gifs/ai-development-tools.gif",
                 name: "AI Development Tools",
                 description:
-                  "With SkillfulAI's innovative AI creation tools, you have the power to build your own AI models. Our user-friendly interface and advanced tools make AI development accessible, whether you're a technical or non-technical user.",
+                  "With BrainiacAI's innovative AI creation tools, you have the power to build your own AI models. Our user-friendly interface and advanced tools make AI development accessible, whether you're a technical or non-technical user.",
                 buttonText: "Search for Dev Tools",
                 type: "center",
               },
@@ -543,7 +457,7 @@
           {
             name: "Accessibility",
             description:
-              "Skillful AI allows people with any skill level to access powerful tailor-made AI tools that are easy to use.",
+              "Brainiac AI allows people with any skill level to access powerful tailor-made AI tools that are easy to use.",
             icon: "/images/accessibility.png",
           },
           {
@@ -593,7 +507,7 @@
                 lineHeight: e ? "2.09194rem" : "6.125rem",
                 textTransform: "capitalize",
                 children:
-                  "Skillful AI: Create, deploy, and share personalized AI assistants on any device.",
+                  "Brainiac AI: Create, deploy, and share personalized AI assistants on any device.",
               }),
               (0, a.jsxs)(j.k, {
                 flexDir: { base: "column", lg: "row" },
@@ -841,7 +755,7 @@
                       fontStyle: "normal",
                       fontWeight: "700",
                       lineHeight: { base: "3.5rem", lg: "7.8125rem" },
-                      children: "The Skillful AI App",
+                      children: "The Brainiac AI App",
                     }),
                     (0, a.jsx)(v.x, {
                       color: "#CECECE",
@@ -851,7 +765,7 @@
                       fontWeight: "400",
                       lineHeight: "150%",
                       children:
-                        "The Future is Now. Unleash your creativity with Skillful AI. Personalize, innovate, and revolutionize the way you interact with technology. With Skillful AI, you're not just adapting to the future, you're creating it.",
+                        "The Future is Now. Unleash your creativity with Brainiac AI. Personalize, innovate, and revolutionize the way you interact with technology. With Brainiac AI, you're not just adapting to the future, you're creating it.",
                     }),
                     (0, a.jsxs)(y.z, {
                       height: { base: "3rem", lg: "72px" },
@@ -861,7 +775,7 @@
                       backgroundColor: "transparent",
                       position: "relative",
                       onClick: () => {
-                        window.open("https://app.skillfulai.io/", "_blank");
+                        window.open("https://brainiac-ai-app.vercel.app/", "_blank");
                       },
                       children: [
                         (0, a.jsx)(d.E, {
@@ -950,7 +864,7 @@
           id: 0,
           name: "AI Suite",
           description:
-            "Skillful AI, empowers AI agents with flexible functionalities, distinct from task-specific models. Developers in the AI Suite can create custom tools and skills, while users personalize agents with selected capabilities.",
+            "Brainiac AI, empowers AI agents with flexible functionalities, distinct from task-specific models. Developers in the AI Suite can create custom tools and skills, while users personalize agents with selected capabilities.",
           image: "/images/ai-suite.png",
         },
         {
@@ -1358,7 +1272,7 @@
                     fontStyle: "normal",
                     fontWeight: 700,
                     children:
-                      "The Utility powerhouse of the Skillful AI ecosystem.",
+                      "The Utility powerhouse of the Brainiac AI ecosystem.",
                   }),
                   (0, a.jsxs)(c.xu, {
                     as: "span",
@@ -1386,7 +1300,7 @@
                           : "clamp(1rem, 3vw, 1.25rem)",
                         fontStyle: "normal",
                         fontWeight: 700,
-                        children: "$SKAI",
+                        children: "$BRAI",
                       }),
                       (0, a.jsx)(v.x, {
                         as: "span",
@@ -1564,7 +1478,7 @@
                             lineHeight: "1rem",
                             mb: "2rem",
                             children:
-                              "Access AI Creator tools, buy and sell on the marketplace, cover all your fees and subscriptions with $SKAI.",
+                              "Access AI Creator tools, buy and sell on the marketplace, cover all your fees and subscriptions with $BRAI.",
                           }),
                           (0, a.jsxs)(O.g, {
                             spacing: 4,
@@ -1587,42 +1501,7 @@
                                 _hover: { bg: "rgba(255, 255, 255, 0.1)" },
                                 onClick: () =>
                                   window.open(
-                                    "https://www.gate.io/trade/SKAI_USDT",
-                                    "_blank"
-                                  ),
-                                children: (0, a.jsxs)(j.k, {
-                                  gap: "1rem",
-                                  flexDir: "row-reverse",
-                                  alignItems: "center",
-                                  justifyContent: "center",
-                                  children: [
-                                    (0, a.jsx)(v.x, { children: "Gate.io" }),
-                                    (0, a.jsx)(d.E, {
-                                      src: "/icons/gate.svg",
-                                      alt: "gateio",
-                                    }),
-                                  ],
-                                }),
-                              }),
-                              (0, a.jsx)(c.xu, {
-                                as: "button",
-                                width: "100%",
-                                borderRadius: "0.625rem",
-                                border: "1px solid #FF2091",
-                                background: "rgba(255, 255, 255, 0.04)",
-                                display: "flex",
-                                height: "4.5rem",
-                                padding: "1.5rem 3.75rem",
-                                justifyContent: "center",
-                                alignItems: "center",
-                                color: "white",
-                                fontFamily: "heading",
-                                fontSize: "1.25rem",
-                                fontWeight: "600",
-                                _hover: { bg: "rgba(255, 255, 255, 0.1)" },
-                                onClick: () =>
-                                  window.open(
-                                    "https://app.uniswap.org/explore/tokens/ethereum/0xcf078da6e85389de507ceede0e3d217e457b9d49",
+                                    "https://app.uniswap.org/explore/tokens/ethereum/0x000000000000000000000000000000000",
                                     "_blank"
                                   ),
                                 children: (0, a.jsxs)(j.k, {
@@ -1634,41 +1513,6 @@
                                     (0, a.jsx)(v.x, { children: "Uniswap" }),
                                     (0, a.jsx)(d.E, {
                                       src: "/icons/uniswap.svg",
-                                      alt: "uniswap",
-                                    }),
-                                  ],
-                                }),
-                              }),
-                              (0, a.jsx)(c.xu, {
-                                as: "button",
-                                width: "100%",
-                                borderRadius: "0.625rem",
-                                border: "1px solid #FF2091",
-                                background: "rgba(255, 255, 255, 0.04)",
-                                display: "flex",
-                                height: "4.5rem",
-                                padding: "1.5rem 3.75rem",
-                                justifyContent: "center",
-                                alignItems: "center",
-                                color: "white",
-                                fontFamily: "heading",
-                                fontSize: "1.25rem",
-                                fontWeight: "600",
-                                _hover: { bg: "rgba(255, 255, 255, 0.1)" },
-                                onClick: () =>
-                                  window.open(
-                                    "https://www.mexc.com/exchange/SKAI_USDT",
-                                    "_blank"
-                                  ),
-                                children: (0, a.jsxs)(j.k, {
-                                  gap: "1rem",
-                                  flexDir: "row-reverse",
-                                  alignItems: "center",
-                                  justifyContent: "center",
-                                  children: [
-                                    (0, a.jsx)(v.x, { children: "Mexc" }),
-                                    (0, a.jsx)(d.E, {
-                                      src: "/icons/mexc.svg",
                                       alt: "uniswap",
                                     }),
                                   ],
@@ -1834,7 +1678,7 @@
                           : "clamp(1rem, 3vw, 1.25rem)",
                         fontStyle: "normal",
                         fontWeight: 700,
-                        children: ["$SKAI ", " "],
+                        children: ["$BRAI ", " "],
                       }),
                       (0, a.jsx)(v.x, {
                         as: "span",
@@ -2036,7 +1880,7 @@
                   (0, a.jsx)(d.E, {
                     w: e ? "6.1175rem" : "10.55763rem",
                     height: e ? "1.25038rem" : "2.15794rem",
-                    src: "./icons/brands/SkillfulAI.svg",
+                    src: "./icons/brands/BrainiacAI.svg",
                     alt: "",
                   }),
                   (0, a.jsx)(d.E, {
@@ -4316,7 +4160,7 @@
                     fontWeight: "700",
                     lineHeight: e ? "1.76269rem" : "3.375rem",
                     children:
-                      "Seize the moment! Dive into the world of skillful AI now and uncover its limitless possibilities.",
+                      "Seize the moment! Dive into the world of Brainiac AI now and uncover its limitless possibilities.",
                   }),
                   (0, a.jsx)(v.x, {
                     color: "#CECECE",
@@ -4415,7 +4259,7 @@
               (0, a.jsx)("div", { id: "home", children: (0, a.jsx)(m.Z, {}) }),
               (0, a.jsx)("div", { id: "brands", children: (0, a.jsx)(f, {}) }),
               (0, a.jsx)("div", {
-                id: "whatIsSkillfulAI",
+                id: "whatIsBrainiacAI",
                 children: (0, a.jsx)(C, {}),
               }),
               (0, a.jsx)("div", {
@@ -4536,7 +4380,7 @@
                   lineHeight: { base: "120%", md: "120%" },
                   textTransform: "capitalize",
                   mb: { base: "13.62rem", md: "0" },
-                  children: "Skillful AI",
+                  children: "Brainiac AI",
                 }),
                 (0, r.jsx)(a.x, {
                   textAlign: "justify",
@@ -4552,7 +4396,7 @@
                   lineHeight: { base: "150%", md: "150%" },
                   mb: "1.44rem",
                   children:
-                    "Stay ahead of the evolving technological landscape with Skillful AI's groundbreaking personalized AI Ecosystem.",
+                    "Stay ahead of the evolving technological landscape with Brainiac AI's groundbreaking personalized AI Ecosystem.",
                 }),
                 (0, r.jsx)(a.x, {
                   color: "white",
@@ -4566,7 +4410,7 @@
                   fontWeight: { base: "300", md: "400" },
                   lineHeight: { base: "150%", md: "150%" },
                   children:
-                    "Witness the transition from basic chatbots to advanced virtual assistants and tailor-made AI solutions. As the tech arena races forward, Skillful AI emerges as your gateway to harnessing the benefits of this revolution.",
+                    "Witness the transition from basic chatbots to advanced virtual assistants and tailor-made AI solutions. As the tech arena races forward, Brainiac AI emerges as your gateway to harnessing the benefits of this revolution.",
                 }),
                 "/skai" === e &&
                   (0, r.jsxs)(l.k, {
@@ -4608,24 +4452,10 @@
                             children: [
                               (0, r.jsx)(d.s, {
                                 as: "a",
-                                href: "https://www.gate.io/trade/SKAI_USDT",
-                                target: "_blank",
-                                bg: "transparent",
-                                children: "Gate.io",
-                              }),
-                              (0, r.jsx)(d.s, {
-                                as: "a",
                                 href: "https://www.mexc.com/exchange/SKAI_USDT",
                                 target: "_blank",
                                 bg: "transparent",
                                 children: "Mexc",
-                              }),
-                              (0, r.jsx)(d.s, {
-                                as: "a",
-                                href: "https://app.uniswap.org/explore/tokens/ethereum/0xcf078da6e85389de507ceede0e3d217e457b9d49",
-                                target: "_blank",
-                                bg: "transparent",
-                                children: "Uniswap",
                               }),
                             ],
                           }),
@@ -4638,7 +4468,7 @@
                         backgroundColor: "transparent",
                         position: "relative",
                         onClick: () => {
-                          window.open("https://app.skillfulai.io/", "_blank");
+                          window.open("https://brainiac-ai-app.vercel.app/", "_blank");
                         },
                         _hover: { bg: "transparent" },
                         children: [
