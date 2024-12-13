@@ -781,41 +781,6 @@
                         fontSize: e ? "1.44331rem" : "1.75rem",
                         fontStyle: "normal",
                         fontWeight: "700",
-                        children: "Links",
-                      }),
-                      (0, i.jsx)(l.r, {
-                        href: "https://drive.google.com/file/d/1QrR7I3-3k_WyUwVbfOMP0PT9_0LCFCuU/view",
-                        isExternal: !0,
-                        children: (0, i.jsx)(o.x, {
-                          fontFamily: "body",
-                          fontSize: e ? "1.03094rem" : "1.25rem",
-                          fontStyle: "normal",
-                          fontWeight: "400",
-                          children: "Whitepaper",
-                        }),
-                      }),
-                      (0, i.jsx)(l.r, {
-                        href: "https://skillful-ai.gitbook.io/skillful-ai-public-docs",
-                        isExternal: !0,
-                        children: (0, i.jsx)(o.x, {
-                          fontFamily: "body",
-                          fontSize: e ? "1.03094rem" : "1.25rem",
-                          fontStyle: "normal",
-                          fontWeight: "400",
-                          children: "Documentation",
-                        }),
-                      }),
-                    ],
-                  }),
-                  (0, i.jsxs)(r.k, {
-                    flexDir: "column",
-                    gap: "1rem",
-                    children: [
-                      (0, i.jsx)(o.x, {
-                        fontFamily: "heading",
-                        fontSize: e ? "1.44331rem" : "1.75rem",
-                        fontStyle: "normal",
-                        fontWeight: "700",
                         children: "Legal",
                       }),
                       (0, i.jsx)(l.r, {
